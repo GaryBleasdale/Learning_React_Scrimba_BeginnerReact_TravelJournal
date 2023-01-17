@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="App">
-      <header className='bg-red-400 p-10 flex justify-center'> <div className='text-lg'>mytraveljournal</div></header>
+      <header className='bg-red-400 p-10 flex justify-center'> <div className='text-xl text-white'>mytraveljournal</div></header>
        {cards}
     </div>
   )
